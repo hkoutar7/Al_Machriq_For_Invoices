@@ -45,5 +45,5 @@ Stay tuned for updates on how AL MACHRIK can enhance your invoicing experience. 
 Contributions are welcome! If you find any issues or have ideas for improvements, feel free to submit issues and pull requests to enhance the project.
 ## Demo
 
-Insert gif or link to demo
+-[demo video](https://drive.google.com/file/d/1jw6zSQIb6SiYPnRVVP961NvKPqzala5Z/view?pli=1)
 
