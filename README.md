@@ -36,17 +36,10 @@ I want to express my gratitude to everyone who supported me throughout the devel
 Stay tuned for updates on how AL MACHRIK can enhance your invoicing experience. Let's work together to reshape the future of invoicing through innovation.
 
 
-## Ressources :
-
- - [The Data Set](https://quickdraw.withgoogle.com/data)
-
 ## Authors
 
 - [hkoutar7](https://github.com/hkoutar7)
 
-## Contributing
-
-Contributions are always welcome!
 ## Contributions
 
 Contributions are welcome! If you find any issues or have ideas for improvements, feel free to submit issues and pull requests to enhance the project.
